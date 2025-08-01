@@ -1,0 +1,7 @@
+Company,BOW_Score,BERT_Score,Difference,Improvement
+Apple,40,64,24,BERT
+Tesla,26,51,25,BERT
+Google,38,65,27,BERT
+Microsoft,40,65,25,BERT
+Nike,42,66,24,BERT
+Fedex,34,64,30,BERT
