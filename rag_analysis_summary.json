@@ -1,0 +1,31 @@
+{
+  "Analysis_Date": "2025-08-03",
+  "Total_Companies_Analyzed": 15,
+  "Old_RAG_Performance": {
+    "All_Scores": 85,
+    "Score_Diversity": 1,
+    "MAE": 14.133333333333333,
+    "Context_Awareness": false,
+    "Success_Rate": 1.0
+  },
+  "Improved_RAG_Performance": {
+    "Best_Strategy": "improved_k_15",
+    "MAE": 20.727272727272727,
+    "Score_Diversity": 9,
+    "Success_Rate": 0.7333333333333333,
+    "Context_Awareness": true,
+    "Score_Range": "1-87"
+  },
+  "Key_Improvements": {
+    "Fixed_Scoring_Bias": true,
+    "Introduced_Randomness": true,
+    "Removed_Prompt_Bias": true,
+    "Context_Utilization": true
+  },
+  "Configuration_Changes": {
+    "Temperature": "0.1 \u2192 0.6",
+    "Decoding": "greedy \u2192 sample",
+    "Sampling": "Added nucleus sampling (top_p=0.9)",
+    "Prompt": "Removed biased score ranges"
+  }
+}

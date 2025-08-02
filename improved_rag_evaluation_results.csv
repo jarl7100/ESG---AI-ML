@@ -1,0 +1,42 @@
+Strategy,K_Value,Company,Improved_RAG_Score,Benchmark_Score,Absolute_Error,Success,Approach
+improved_k_5,5,Apple,3,70,67,True,Improved_RAG
+improved_k_5,5,Boeing,55,79,24,True,Improved_RAG
+improved_k_5,5,JPMorgan Chase,78,80,2,True,Improved_RAG
+improved_k_5,5,McDonald's,5,66,61,True,Improved_RAG
+improved_k_5,5,Meta,63,60,3,True,Improved_RAG
+improved_k_5,5,Microsoft,77,87,10,True,Improved_RAG
+improved_k_5,5,Tesla,70,72,2,True,Improved_RAG
+improved_k_5,5,Google,85,81,4,True,Improved_RAG
+improved_k_10,10,Nike,30,70,40,True,Improved_RAG
+improved_k_10,10,Apple,3,70,67,True,Improved_RAG
+improved_k_10,10,Boeing,75,79,4,True,Improved_RAG
+improved_k_10,10,Disney,25,68,43,True,Improved_RAG
+improved_k_10,10,Eli Lilly,75,64,11,True,Improved_RAG
+improved_k_10,10,FedEx,70,71,1,True,Improved_RAG
+improved_k_10,10,Johnson & Johnson,1,85,84,True,Improved_RAG
+improved_k_10,10,JPMorgan Chase,55,80,25,True,Improved_RAG
+improved_k_10,10,Meta,73,60,13,True,Improved_RAG
+improved_k_10,10,Microsoft,83,87,4,True,Improved_RAG
+improved_k_10,10,Netflix,79,37,42,True,Improved_RAG
+improved_k_10,10,NVIDIA,75,77,2,True,Improved_RAG
+improved_k_10,10,Tesla,90,72,18,True,Improved_RAG
+improved_k_10,10,Google,75,81,6,True,Improved_RAG
+improved_k_15,15,Nike,67,70,3,True,Improved_RAG
+improved_k_15,15,Apple,73,70,3,True,Improved_RAG
+improved_k_15,15,Disney,65,68,3,True,Improved_RAG
+improved_k_15,15,Eli Lilly,85,64,21,True,Improved_RAG
+improved_k_15,15,Johnson & Johnson,87,85,2,True,Improved_RAG
+improved_k_15,15,JPMorgan Chase,60,80,20,True,Improved_RAG
+improved_k_15,15,Meta,1,60,59,True,Improved_RAG
+improved_k_15,15,Microsoft,85,87,2,True,Improved_RAG
+improved_k_15,15,Netflix,70,37,33,True,Improved_RAG
+improved_k_15,15,NVIDIA,75,77,2,True,Improved_RAG
+improved_k_15,15,Google,1,81,80,True,Improved_RAG
+improved_k_20,20,Nike,3,70,67,True,Improved_RAG
+improved_k_20,20,Apple,65,70,5,True,Improved_RAG
+improved_k_20,20,Eli Lilly,65,64,1,True,Improved_RAG
+improved_k_20,20,FedEx,1,71,70,True,Improved_RAG
+improved_k_20,20,Meta,72,60,12,True,Improved_RAG
+improved_k_20,20,NVIDIA,65,77,12,True,Improved_RAG
+improved_k_20,20,Tesla,77,72,5,True,Improved_RAG
+improved_k_20,20,Google,85,81,4,True,Improved_RAG
