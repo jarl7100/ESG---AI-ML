@@ -1,0 +1,16 @@
+Company,ESG_Score,Environment,Social,Governance,Emissions,Resource Use,Innovation,Human Rights,Product Responsibility,Workforce,Community,Management,Shareholders,CSR Strategy,Sector
+Apple,64,75,60,59,77,75,73,59,74,53,56,52,60,67,Technology
+Boeing,67,68,67,66,70,67,68,72,71,66,62,62,62,74,Aerospace
+Disney,66,69,64,66,74,67,68,62,77,61,57,67,60,73,Consumer Goods
+Elililly,68,71,68,67,70,73,71,73,77,62,63,70,58,73,Pharmaceuticals
+Fedex,64,62,63,67,69,59,60,66,67,63,56,66,62,74,Logistics
+Google,65,74,58,65,79,75,69,53,70,56,56,60,69,67,Technology
+Johnsonandjohnson,56,52,56,61,57,46,55,58,73,55,38,55,56,72,Pharmaceuticals
+Jpmorganchase,70,72,67,71,76,70,71,63,70,67,71,72,66,76,Financial Services
+Mcdonald,64,66,67,60,71,65,64,62,68,67,73,57,57,67,Consumer Goods
+Meta,64,69,60,65,77,67,63,63,72,54,51,61,65,69,Technology
+Microsoft,65,73,59,64,72,74,73,55,73,50,59,59,60,74,Technology
+Netflix,65,66,57,72,77,59,63,56,57,53,64,75,67,74,Technology
+Nike,66,69,66,65,71,72,65,65,76,63,63,62,62,72,Consumer Goods
+Nvidia,61,63,58,63,66,63,60,66,62,51,53,60,58,72,Technology
+Tesla,51,53,45,57,57,51,53,61,70,50,0,53,58,61,Automotive
