@@ -1,0 +1,16 @@
+Company,Benchmark_Score,Granite_Pred,Mistral_Pred,Granite_Error,Mistral_Error
+Netflix,37,85,50,48,13
+Meta,60,85,50,25,10
+Eli Lilly,64,30,50,34,14
+McDonald's,66,68,50,2,16
+Disney,68,85,50,17,18
+Nike,70,85,50,15,20
+Apple,70,35,50,35,20
+FedEx,71,30,50,41,21
+Tesla,72,35,50,37,22
+NVIDIA,77,100,50,23,27
+Boeing,79,30,50,49,29
+JPMorgan Chase,80,85,50,5,30
+Google,81,85,50,4,31
+Johnson & Johnson,85,68,50,17,35
+Microsoft,87,85,50,2,37
