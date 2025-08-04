@@ -3,7 +3,7 @@ import re
 import html
 from sec_api import ExtractorApi
 
-API_KEY = "6b1d524acee9f6d92ded5cfedd78a25d80c16bb759a937d33f8dbe47688f7a34"
+API_KEY = ""
 OUTPUT_FOLDER = os.path.join("data", "apiData")
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
